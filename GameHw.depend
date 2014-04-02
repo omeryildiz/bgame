@@ -54,3 +54,58 @@
 	"Obstacle.h"
 	<iostream>
 
+1396448442 source:c:\users\Ömer\documents\bgame\main.cpp
+	<iostream>
+	<Factory.h>
+	<NiceFactory.h>
+	<vector>
+	<stdlib.h>
+
+1388617869 c:\users\Ömer\documents\bgame\include\factory.h
+	<Player.h>
+	<Obstacle.h>
+
+1388653910 c:\users\Ömer\documents\bgame\include\player.h
+	<Obstacle.h>
+
+1396450360 c:\users\Ömer\documents\bgame\include\obstacle.h
+
+1396438980 c:\users\Ömer\documents\bgame\include\nicefactory.h
+	<Factory.h>
+	<Player.h>
+	<Obstacle.h>
+
+1388617716 source:c:\users\Ömer\documents\bgame\src\factory.cpp
+	"Factory.h"
+
+1396448013 source:c:\users\Ömer\documents\bgame\src\kitten.cpp
+	<Kitten.h>
+	<Obstacle.h>
+	<Puzzle.h>
+	<iostream>
+
+1388670810 c:\users\Ömer\documents\bgame\include\kitten.h
+	<Player.h>
+	<Puzzle.h>
+	<Obstacle.h>
+
+1396448165 c:\users\Ömer\documents\bgame\include\puzzle.h
+	<Obstacle.h>
+
+1396442515 source:c:\users\Ömer\documents\bgame\src\nicefactory.cpp
+	"NiceFactory.h"
+	<Kitten.h>
+
+1388612937 source:c:\users\Ömer\documents\bgame\src\player.cpp
+	"Player.h"
+	<iostream>
+
+1396450430 source:c:\users\Ömer\documents\bgame\src\puzzle.cpp
+	"Puzzle.h"
+	"Obstacle.h"
+	<iostream>
+
+1396450393 source:c:\users\Ömer\documents\bgame\src\obstacle.cpp
+	"Obstacle.h"
+	<iostream>
+
