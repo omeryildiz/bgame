@@ -10,10 +10,13 @@ class Obstacle
         bool isActive();
         bool status;
         virtual void solve()=0;
+        int getUid();
 
     protected:
-        static unsigned int id;
+        //static unsigned int id;
     private:
+        const int uid;
+        static int newUid;
 
 
 };
