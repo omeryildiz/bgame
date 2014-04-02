@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1396448442 source:c:\users\Ömer\documents\gamehw\main.cpp
+	<iostream>
+	<Factory.h>
+	<NiceFactory.h>
+	<vector>
+	<stdlib.h>
+
+1388653910 c:\users\Ömer\documents\gamehw\include\player.h
+	<Obstacle.h>
+
+1396448740 c:\users\Ömer\documents\gamehw\include\obstacle.h
+
+1388617716 source:c:\users\Ömer\documents\gamehw\src\factory.cpp
+	"Factory.h"
+
+1388617869 c:\users\Ömer\documents\gamehw\include\factory.h
+	<Player.h>
+	<Obstacle.h>
+
+1396448013 source:c:\users\Ömer\documents\gamehw\src\kitten.cpp
+	<Kitten.h>
+	<Obstacle.h>
+	<Puzzle.h>
+	<iostream>
+
+1388670810 c:\users\Ömer\documents\gamehw\include\kitten.h
+	<Player.h>
+	<Puzzle.h>
+	<Obstacle.h>
+
+1396448165 c:\users\Ömer\documents\gamehw\include\puzzle.h
+	<Obstacle.h>
+
+1396442515 source:c:\users\Ömer\documents\gamehw\src\nicefactory.cpp
+	"NiceFactory.h"
+	<Kitten.h>
+
+1396438980 c:\users\Ömer\documents\gamehw\include\nicefactory.h
+	<Factory.h>
+	<Player.h>
+	<Obstacle.h>
+
+1396447338 source:c:\users\Ömer\documents\gamehw\src\obstacle.cpp
+	"Obstacle.h"
+	<iostream>
+
+1388612937 source:c:\users\Ömer\documents\gamehw\src\player.cpp
+	"Player.h"
+	<iostream>
+
+1396447391 source:c:\users\Ömer\documents\gamehw\src\puzzle.cpp
+	"Puzzle.h"
+	"Obstacle.h"
+	<iostream>
+
