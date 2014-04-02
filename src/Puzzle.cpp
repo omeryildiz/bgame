@@ -6,7 +6,7 @@ using namespace std;
 Puzzle::Puzzle()
 {
 
-    cout<<"puzzle olustu id:"<<id<<endl;
+    cout<<"puzzle olustu id:"<<getUid()<<endl;
 }
 
 Puzzle::~Puzzle()
@@ -17,6 +17,6 @@ Puzzle::~Puzzle()
 void Puzzle::solve()
 {
 
-    cout<<"puzzle"<<id <<" solved! Congratulations"<<endl;
+    cout<<"puzzle"<<getUid() <<" solved! Congratulations"<<endl;
     status = false;
 }
