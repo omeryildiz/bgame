@@ -1,19 +1,17 @@
-#include <Feature.h>
-#include <Player.h>
 #ifndef WARRIOR_H
 #define WARRIOR_H
 
 
-class Warrior
+class Warrior:public Player
 {
     public:
-        Warrior(int n,int m);
+        Warrior();
         virtual ~Warrior();
         void sing();
-        void interact(Obstacle* o);
+        void interact(Obstacle *o);
+        struct Feature feature;
     protected:
     private:
-        Feature feature;
 };
 
 #endif // WARRIOR_H
