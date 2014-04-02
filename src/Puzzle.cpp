@@ -17,6 +17,6 @@ Puzzle::~Puzzle()
 void Puzzle::solve()
 {
 
-    cout<<"puzzle"<<getUid() <<" solved! Congratulations"<<endl;
+    cout<<"puzzle "<<getUid() <<" solved! Congratulations"<<endl;
     status = false;
 }

@@ -44,12 +44,24 @@ int main(int argc, char *argv[])
     */
     //factory=new UglyFactory();
     //playGame(factory);
-    int cnt=5;
+     int cnt=5;
     vector<Obstacle*> obstacle;
     for(int i=0;i<cnt;i++)
             obstacle.push_back(factory->createObstacle());
     Player  *player=factory->createPlayer();
-    player->interact(obstacle[1]);
+
+
+    while(cnt>0){
+       player->wander();
+       int index=rand()%5;
+       if(obstacle[index]->isActive()){
+           player->interact(obstacle[index]);
+cnt--;
+       }else{
+             player->wander();
+       }
+    }
+    cout<<"game over"<<endl;
 
 
 
