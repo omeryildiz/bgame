@@ -1,6 +1,7 @@
 #include <iostream>
 #include <Factory.h>
 #include <NiceFactory.h>
+#include <UglyFactory.h>
 #include <vector>
 #include <stdlib.h>
 

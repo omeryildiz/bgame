@@ -19,12 +19,11 @@ void Kitten::sing()
     cout<<"meow meow"<<endl;
 }
 
-void Kitten::interact(Obstacle* o)
+
+void Kitten::interact(Obstacle *o)
 {
     //todo: The interact(Obstacle *o) method will call the  solve method explained above in
      //cout<<"Engelle Karsilas ve coz"<<endl;
-    //o->solve();
     o->solve();
-
 
 }

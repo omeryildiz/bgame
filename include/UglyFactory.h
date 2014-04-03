@@ -1,8 +1,9 @@
+#include <Factory.h>
 #ifndef UGLYFACTORY_H
 #define UGLYFACTORY_H
 
 
-class UglyFactory
+class UglyFactory:public Factory
 {
     public:
         UglyFactory();

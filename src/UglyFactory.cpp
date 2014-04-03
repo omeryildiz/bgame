@@ -1,4 +1,6 @@
 #include "UglyFactory.h"
+#include <Warrior.h>
+#include <Monster.h>
 
 UglyFactory::UglyFactory()
 {
@@ -11,11 +13,10 @@ UglyFactory::~UglyFactory()
 }
 Player* UglyFactory::createPlayer()
 {
-
-
+    return new Warrior;
 }
 
 Obstacle* UglyFactory::createObstacle()
 {
-
+    return new Monster;
 }
