@@ -54,10 +54,11 @@
 	"Obstacle.h"
 	<iostream>
 
-1396460341 source:c:\users\Ömer\documents\bgame\main.cpp
+1396508089 source:c:\users\Ömer\documents\bgame\main.cpp
 	<iostream>
 	<Factory.h>
 	<NiceFactory.h>
+	<UglyFactory.h>
 	<vector>
 	<stdlib.h>
 

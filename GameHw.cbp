@@ -40,8 +40,6 @@
 		<Unit filename="include/Obstacle.h" />
 		<Unit filename="include/Player.h" />
 		<Unit filename="include/Puzzle.h" />
-		<Unit filename="include/UglyFactory.h" />
-		<Unit filename="include/Warrior.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Factory.cpp" />
 		<Unit filename="src/Kitten.cpp" />
@@ -49,8 +47,6 @@
 		<Unit filename="src/Obstacle.cpp" />
 		<Unit filename="src/Player.cpp" />
 		<Unit filename="src/Puzzle.cpp" />
-		<Unit filename="src/UglyFactory.cpp" />
-		<Unit filename="src/Warrior.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

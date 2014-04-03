@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
 	<ActiveTarget name="Debug" />
-	<File name="include\Warrior.h" open="1" top="1" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="105" topLine="0" />
-		</Cursor>
-	</File>
-	<File name="src\Warrior.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="45" topLine="0" />
-		</Cursor>
-	</File>
 	<File name="include\Factory.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
 			<Cursor1 position="80" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="include\Kitten.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="include\Kitten.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="99" topLine="0" />
+			<Cursor1 position="216" topLine="0" />
 		</Cursor>
 	</File>
 	<File name="include\NiceFactory.h" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -26,9 +16,9 @@
 			<Cursor1 position="291" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="include\Obstacle.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="include\Obstacle.h" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="18" topLine="0" />
+			<Cursor1 position="247" topLine="0" />
 		</Cursor>
 	</File>
 	<File name="include\Player.h" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -38,12 +28,12 @@
 	</File>
 	<File name="include\Puzzle.h" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="175" topLine="0" />
+			<Cursor1 position="0" topLine="0" />
 		</Cursor>
 	</File>
 	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="698" topLine="18" />
+			<Cursor1 position="651" topLine="4" />
 		</Cursor>
 	</File>
 	<File name="src\Factory.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -51,9 +41,9 @@
 			<Cursor1 position="103" topLine="0" />
 		</Cursor>
 	</File>
-	<File name="src\Kitten.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+	<File name="src\Kitten.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="222" topLine="10" />
+			<Cursor1 position="468" topLine="9" />
 		</Cursor>
 	</File>
 	<File name="src\NiceFactory.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
@@ -63,22 +53,17 @@
 	</File>
 	<File name="src\Obstacle.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="349" topLine="3" />
+			<Cursor1 position="207" topLine="6" />
 		</Cursor>
 	</File>
 	<File name="src\Player.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="180" topLine="0" />
+			<Cursor1 position="121" topLine="0" />
 		</Cursor>
 	</File>
 	<File name="src\Puzzle.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor>
-			<Cursor1 position="163" topLine="2" />
-		</Cursor>
-	</File>
-	<File name="include\UglyFactory.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor>
-			<Cursor1 position="210" topLine="0" />
+			<Cursor1 position="182" topLine="2" />
 		</Cursor>
 	</File>
 </CodeBlocks_layout_file>
