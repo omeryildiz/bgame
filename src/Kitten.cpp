@@ -19,11 +19,18 @@ void Kitten::sing()
     cout<<"meow meow"<<endl;
 }
 
+void Kitten::solve(Puzzle *p)
+{
+    p->solve();
+}
+
 
 void Kitten::interact(Obstacle *o)
 {
     //todo: The interact(Obstacle *o) method will call the  solve method explained above in
-     //cout<<"Engelle Karsilas ve coz"<<endl;
-    o->solve();
+    //cout<<"Engelle Karsilas ve coz"<<endl;
+    //Obstacle abstract sýnýfýnda void solve() varken aþaðýdaki çözüm çalýþýyor.
+    //o->solve();
+    solve(dynamic_cast<Puzzle*> (o));
 
 }

@@ -11,6 +11,7 @@ class Kitten:public Player
         Kitten();
         virtual ~Kitten();
         void sing();
+        void solve(Puzzle *p);
         void interact(Obstacle* o);
     protected:
     private:

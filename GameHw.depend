@@ -69,7 +69,7 @@
 1388653910 c:\users\Ömer\documents\bgame\include\player.h
 	<Obstacle.h>
 
-1396507611 c:\users\Ömer\documents\bgame\include\obstacle.h
+1396532350 c:\users\Ömer\documents\bgame\include\obstacle.h
 
 1396438980 c:\users\Ömer\documents\bgame\include\nicefactory.h
 	<Factory.h>
@@ -79,13 +79,13 @@
 1388617716 source:c:\users\Ömer\documents\bgame\src\factory.cpp
 	"Factory.h"
 
-1396507622 source:c:\users\Ömer\documents\bgame\src\kitten.cpp
+1396535142 source:c:\users\Ömer\documents\bgame\src\kitten.cpp
 	<Kitten.h>
 	<Obstacle.h>
 	<Puzzle.h>
 	<iostream>
 
-1396507600 c:\users\Ömer\documents\bgame\include\kitten.h
+1396532409 c:\users\Ömer\documents\bgame\include\kitten.h
 	<Player.h>
 	<Puzzle.h>
 	<Obstacle.h>
