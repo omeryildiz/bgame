@@ -31,6 +31,7 @@ void Kitten::interact(Obstacle *o)
     //cout<<"Engelle Karsilas ve coz"<<endl;
     //Obstacle abstract sýnýfýnda void solve() varken aþaðýdaki çözüm çalýþýyor.
     //o->solve();
+    //dynamic casting ile çözüldü. Run time deðiþim yapmak istenildiðinde dynamic_cast kullanýlýr.
     solve(dynamic_cast<Puzzle*> (o));
 
 }

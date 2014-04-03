@@ -4,13 +4,14 @@
 #include <UglyFactory.h>
 #include <vector>
 #include <stdlib.h>
+#include <time.h>
 
 using namespace std;
 
 
 
 void playGame(Factory *factory){
-
+    srand (time(NULL));
     int cnt=5;
     vector<Obstacle*> obstacle;
     for(int i=0;i<cnt;i++)
