@@ -15,7 +15,6 @@ class Monster:public Obstacle
         int getMonsterStrength();
         int getMonsterStamina();
         struct Feature monsters;
-        void solve();
     protected:
     private:
 };

@@ -1,5 +1,6 @@
 #include <Player.h>
 #include <Feature.h>
+#include <Monster.h>
 #ifndef WARRIOR_H
 #define WARRIOR_H
 
@@ -11,6 +12,7 @@ class Warrior:public Player
         virtual ~Warrior();
         void sing();
         void interact(Obstacle *o);
+        void fight(Monster *m);
         void setWarriorFeature();
         int getWarriorStamina();
         int getWarriorStrength();
@@ -20,3 +22,4 @@ class Warrior:public Player
 };
 
 #endif // WARRIOR_H
+
