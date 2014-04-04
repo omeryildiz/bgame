@@ -1,6 +1,5 @@
 #include "UglyFactory.h"
 #include <Warrior.h>
-#include <Monster.h>
 
 UglyFactory::UglyFactory()
 {

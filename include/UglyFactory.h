@@ -1,4 +1,6 @@
 #include <Factory.h>
+#include <Player.h>
+#include <Obstacle.h>
 #ifndef UGLYFACTORY_H
 #define UGLYFACTORY_H
 

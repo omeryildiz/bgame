@@ -145,15 +145,17 @@
 1396599110 c:\users\Ömer\documents\bgamemaster\bgame\include\player.h
 	<Obstacle.h>
 
-1396599110 c:\users\Ömer\documents\bgamemaster\bgame\include\obstacle.h
+1396604582 c:\users\Ömer\documents\bgamemaster\bgame\include\obstacle.h
 
 1396599110 c:\users\Ömer\documents\bgamemaster\bgame\include\nicefactory.h
 	<Factory.h>
 	<Player.h>
 	<Obstacle.h>
 
-1396602143 c:\users\Ömer\documents\bgamemaster\bgame\include\uglyfactory.h
+1396604466 c:\users\Ömer\documents\bgamemaster\bgame\include\uglyfactory.h
 	<Factory.h>
+	<Player.h>
+	<Obstacle.h>
 
 1396602132 c:\users\Ömer\documents\bgamemaster\bgame\include\monster.h
 	<Obstacle.h>
@@ -205,16 +207,16 @@
 	"Obstacle.h"
 	<iostream>
 
-1396599110 source:c:\users\Ömer\documents\bgamemaster\bgame\src\uglyfactory.cpp
+1396604596 source:c:\users\Ömer\documents\bgamemaster\bgame\src\uglyfactory.cpp
 	"UglyFactory.h"
 	<Warrior.h>
-	<Monster.h>
 
-1396599110 source:c:\users\Ömer\documents\bgamemaster\bgame\src\warrior.cpp
+1396602068 source:c:\users\Ömer\documents\bgamemaster\bgame\src\warrior.cpp
 	"Warrior.h"
+	<Monster.h>
 	<iostream>
 
-1396600054 source:c:\users\Ömer\documents\bgamemaster\bgame\main.cpp
+1396604607 source:c:\users\Ömer\documents\bgamemaster\bgame\main.cpp
 	<iostream>
 	<Factory.h>
 	<NiceFactory.h>

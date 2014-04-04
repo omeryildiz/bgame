@@ -9,7 +9,6 @@ class Obstacle
         virtual ~Obstacle();
         bool isActive();
         bool status;
-        virtual void solve()=0;
         int getUid();
 
     protected:
