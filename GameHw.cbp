@@ -33,24 +33,26 @@
 			<Add option="-fexceptions" />
 			<Add directory="include" />
 		</Compiler>
-		<Unit filename="include/Factory.h" />
-		<Unit filename="include/Feature.h" />
-		<Unit filename="include/Kitten.h" />
-		<Unit filename="include/NiceFactory.h" />
-		<Unit filename="include/Obstacle.h" />
-		<Unit filename="include/Player.h" />
-		<Unit filename="include/Puzzle.h" />
-		<Unit filename="include/UglyFactory.h" />
-		<Unit filename="include/Warrior.h" />
-		<Unit filename="main.cpp" />
-		<Unit filename="src/Factory.cpp" />
-		<Unit filename="src/Kitten.cpp" />
-		<Unit filename="src/NiceFactory.cpp" />
-		<Unit filename="src/Obstacle.cpp" />
-		<Unit filename="src/Player.cpp" />
-		<Unit filename="src/Puzzle.cpp" />
-		<Unit filename="src/UglyFactory.cpp" />
-		<Unit filename="src/Warrior.cpp" />
+		<Unit filename="../../bgame/include/Factory.h" />
+		<Unit filename="../../bgame/include/Feature.h" />
+		<Unit filename="../../bgame/include/Kitten.h" />
+		<Unit filename="../../bgame/include/Monster.h" />
+		<Unit filename="../../bgame/include/NiceFactory.h" />
+		<Unit filename="../../bgame/include/Obstacle.h" />
+		<Unit filename="../../bgame/include/Player.h" />
+		<Unit filename="../../bgame/include/Puzzle.h" />
+		<Unit filename="../../bgame/include/UglyFactory.h" />
+		<Unit filename="../../bgame/include/Warrior.h" />
+		<Unit filename="../../bgame/main.cpp" />
+		<Unit filename="../../bgame/src/Factory.cpp" />
+		<Unit filename="../../bgame/src/Kitten.cpp" />
+		<Unit filename="../../bgame/src/Monster.cpp" />
+		<Unit filename="../../bgame/src/NiceFactory.cpp" />
+		<Unit filename="../../bgame/src/Obstacle.cpp" />
+		<Unit filename="../../bgame/src/Player.cpp" />
+		<Unit filename="../../bgame/src/Puzzle.cpp" />
+		<Unit filename="../../bgame/src/UglyFactory.cpp" />
+		<Unit filename="../../bgame/src/Warrior.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
