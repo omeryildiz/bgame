@@ -33,7 +33,11 @@ void Monster::kill(int n)
     cout << "An exception occurred." << endl;
     }
     if(monsters.stamina == 0)
+    {
         cout<<"Monster id:"<<getUid()<<" is dead"<<endl;
+        status = false;
+    }
+
 }
 
 void Monster::setMonsterFeature()

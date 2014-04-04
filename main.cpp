@@ -4,6 +4,7 @@
 #include <UglyFactory.h>
 #include <vector>
 #include <stdlib.h>
+#include <time.h>
 
 using namespace std;
 
@@ -17,6 +18,7 @@ void playGame(Factory *factory){
             obstacle.push_back(factory->createObstacle());
     Player  *player=factory->createPlayer();
 
+    srand(time(NULL));
 
     while(cnt>0){
        player->wander();

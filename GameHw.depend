@@ -157,7 +157,7 @@
 	<Player.h>
 	<Obstacle.h>
 
-1396602132 c:\users\Ömer\documents\bgamemaster\bgame\include\monster.h
+1396604937 c:\users\Ömer\documents\bgamemaster\bgame\include\monster.h
 	<Obstacle.h>
 	<Feature.h>
 
@@ -216,11 +216,12 @@
 	<Monster.h>
 	<iostream>
 
-1396604607 source:c:\users\Ömer\documents\bgamemaster\bgame\main.cpp
+1396605028 source:c:\users\Ömer\documents\bgamemaster\bgame\main.cpp
 	<iostream>
 	<Factory.h>
 	<NiceFactory.h>
 	<UglyFactory.h>
 	<vector>
 	<stdlib.h>
+	<time.h>
 
