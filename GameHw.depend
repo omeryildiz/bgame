@@ -54,12 +54,14 @@
 	"Obstacle.h"
 	<iostream>
 
-1396460341 source:c:\users\Ömer\documents\bgame\main.cpp
+1396598876 source:c:\users\Ömer\documents\bgame\main.cpp
 	<iostream>
 	<Factory.h>
 	<NiceFactory.h>
+	<UglyFactory.h>
 	<vector>
 	<stdlib.h>
+	<time.h>
 
 1388617869 c:\users\Ömer\documents\bgame\include\factory.h
 	<Player.h>
@@ -109,8 +111,9 @@
 	"Obstacle.h"
 	<iostream>
 
-1396507849 source:c:\users\Ömer\documents\bgame\src\monster.cpp
+1396598835 source:c:\users\Ömer\documents\bgame\src\monster.cpp
 	"Monster.h"
+	<Warrior.h>
 	<iostream>
 
 1396507797 c:\users\Ömer\documents\bgame\include\monster.h
@@ -134,4 +137,86 @@
 1396507325 c:\users\Ömer\documents\bgame\include\warrior.h
 	<Player.h>
 	<Feature.h>
+
+1396599110 c:\users\Ömer\documents\bgamemaster\bgame\include\factory.h
+	<Player.h>
+	<Obstacle.h>
+
+1396599110 c:\users\Ömer\documents\bgamemaster\bgame\include\player.h
+	<Obstacle.h>
+
+1396599110 c:\users\Ömer\documents\bgamemaster\bgame\include\obstacle.h
+
+1396599110 c:\users\Ömer\documents\bgamemaster\bgame\include\nicefactory.h
+	<Factory.h>
+	<Player.h>
+	<Obstacle.h>
+
+1396599110 c:\users\Ömer\documents\bgamemaster\bgame\include\uglyfactory.h
+	<Factory.h>
+
+1396599110 c:\users\Ömer\documents\bgamemaster\bgame\include\monster.h
+	<Obstacle.h>
+	<Feature.h>
+
+1396599110 c:\users\Ömer\documents\bgamemaster\bgame\include\feature.h
+
+1396599110 c:\users\Ömer\documents\bgamemaster\bgame\include\warrior.h
+	<Player.h>
+	<Feature.h>
+
+1396599110 c:\users\Ömer\documents\bgamemaster\bgame\include\kitten.h
+	<Player.h>
+	<Puzzle.h>
+	<Obstacle.h>
+
+1396599110 c:\users\Ömer\documents\bgamemaster\bgame\include\puzzle.h
+	<Obstacle.h>
+
+1396599110 source:c:\users\Ömer\documents\bgamemaster\bgame\src\factory.cpp
+	"Factory.h"
+
+1396599110 source:c:\users\Ömer\documents\bgamemaster\bgame\src\kitten.cpp
+	<Kitten.h>
+	<Obstacle.h>
+	<Puzzle.h>
+	<iostream>
+
+1396599110 source:c:\users\Ömer\documents\bgamemaster\bgame\src\monster.cpp
+	"Monster.h"
+	<iostream>
+
+1396599110 source:c:\users\Ömer\documents\bgamemaster\bgame\src\nicefactory.cpp
+	"NiceFactory.h"
+	<Kitten.h>
+
+1396599110 source:c:\users\Ömer\documents\bgamemaster\bgame\src\obstacle.cpp
+	"Obstacle.h"
+	<iostream>
+
+1396599110 source:c:\users\Ömer\documents\bgamemaster\bgame\src\player.cpp
+	"Player.h"
+	<iostream>
+
+1396599110 source:c:\users\Ömer\documents\bgamemaster\bgame\src\puzzle.cpp
+	"Puzzle.h"
+	"Obstacle.h"
+	<iostream>
+
+1396599110 source:c:\users\Ömer\documents\bgamemaster\bgame\src\uglyfactory.cpp
+	"UglyFactory.h"
+	<Warrior.h>
+	<Monster.h>
+
+1396599110 source:c:\users\Ömer\documents\bgamemaster\bgame\src\warrior.cpp
+	"Warrior.h"
+	<iostream>
+
+1396600054 source:c:\users\Ömer\documents\bgamemaster\bgame\main.cpp
+	<iostream>
+	<Factory.h>
+	<NiceFactory.h>
+	<UglyFactory.h>
+	<vector>
+	<stdlib.h>
 

@@ -35,6 +35,10 @@ int main(int argc, char *argv[])
 {
     Factory *factory=new NiceFactory;
     playGame(factory);
+    cout<<"Level UP"<<endl;
+    factory=new UglyFactory();
+    playGame(factory);
+
 
 
 
