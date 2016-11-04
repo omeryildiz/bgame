@@ -1,2 +1,2 @@
 language: cpp
-./configure && make
+make
