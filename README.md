@@ -189,6 +189,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## Contact
 
 For more information, feel free to contact the project maintainer at [Omer Yildiz](https://www.omeryildiz.org).
-```
 
-Bu güncellenmiş README.md dosyasını kullanarak GitHub'daki `bgame` reposunu güncelleyebilirsiniz. Başka bir ekleme veya değişiklik yapmak isterseniz lütfen belirtin.
